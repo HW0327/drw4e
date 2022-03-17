@@ -1,1 +1,1 @@
-# Mixture-of-Gaussian-and-Student-s-t-Errors-project
+# Mixture of Gaussian and Student's t Errors project
