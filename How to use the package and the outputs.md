@@ -33,14 +33,14 @@
 </table>
 
 <p>
-  For example, if you want to the 100 samples values of mu with Gt model, you can type the code below.
+  For example, if you want the 100 samples values of mu with Gt model, you can type the code below.
 </p>
 
 <pre>
 import drw4e as dr
 gt = dr.Gt(data=your_data, nsample=100, nwarm=100)
 mu = gt[0]
-Print (mu)
+print (mu)
 </pre>
 
 <p>
