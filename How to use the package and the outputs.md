@@ -1,5 +1,5 @@
 <p>
-  The package consists of four main modules, which are mixture of Gaussian and Student’s t (Gt), mixture of Gaussian and Gaussian (GG), Gaussian (G) and Student’s t (t). Each module contains eight functions, calculating mu (μ), log 10 of sigma (σ), log 10 of tau (τ), accept rate for tau, degree of freedom, accept rate for degree of freedom, theta (θ) and rate for Z. Since the package returns a list includes all the parameters, if the users want to retrieve any of the parameters, they simply specify the index of it in the list. Here is the index for each parameter.
+  Each measurement in this package calculates eight parameters, mu (μ), log 10 of sigma (σ), log 10 of tau (τ), accept rate for tau, degree of freedom, accept rate for degree of freedom, theta (θ) and rate for Z. Since the package returns a list includes all the parameters, if the users want to retrieve any of the parameters, they simply specify the index of it in the list. Here is the index for each parameter.
   </p>
 
 <table>
